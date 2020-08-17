@@ -1,104 +1,106 @@
 {
-    "data": {
-        "Output": {
-            "AllResults": {
-                "Results": {
-                    "Result": {
-                        "AddressMatches": [
-                            {
-                                "AddressMatch": {
-                                    "AddressType": "UrbanRoute",
-                                    "City": "POUCH COVE",
-                                    "DirectoryAreaName": "POUCH COVE",
-                                    "PostalCode": "A0A3L0",
-                                    "Province": "NL",
-                                    "RouteServiceNumber": "1",
-                                    "RouteServiceType": "RuralRoute",
-                                    "StreetAddressSequence": "Odd",
-                                    "StreetName": "MOUNTAIN",
-                                    "StreetNumberMaximum": "11",
-                                    "StreetNumberMinimum": "1",
-                                    "StreetType": "CRES"
-                                }
-                            },
-                            {
-                                "AddressMatch": {
-                                    "AddressType": "UrbanRoute",
-                                    "City": "POUCH COVE",
-                                    "DirectoryAreaName": "POUCH COVE",
-                                    "PostalCode": "A0A3L0",
-                                    "Province": "NL",
-                                    "RouteServiceNumber": "1",
-                                    "RouteServiceType": "RuralRoute",
-                                    "StreetAddressSequence": "Even",
-                                    "StreetName": "MOUNTAIN",
-                                    "StreetNumberMaximum": "18",
-                                    "StreetNumberMinimum": "2",
-                                    "StreetType": "CRES"
-                                }
-                            },
-                            {
-                                "AddressMatch": {
-                                    "AddressType": "UrbanRoute",
-                                    "City": "POUCH COVE",
-                                    "DirectoryAreaName": "POUCH COVE",
-                                    "PostalCode": "A0A3L0",
-                                    "Province": "NL",
-                                    "RouteServiceNumber": "1",
-                                    "RouteServiceType": "RuralRoute",
-                                    "StreetAddressSequence": "Odd",
-                                    "StreetName": "VALE",
-                                    "StreetNumberMaximum": "39",
-                                    "StreetNumberMinimum": "1",
-                                    "StreetType": "DR"
-                                }
-                            },
-                            {
-                                "AddressMatch": {
-                                    "AddressType": "UrbanRoute",
-                                    "City": "POUCH COVE",
-                                    "DirectoryAreaName": "POUCH COVE",
-                                    "PostalCode": "A0A3L0",
-                                    "Province": "NL",
-                                    "RouteServiceNumber": "1",
-                                    "RouteServiceType": "RuralRoute",
-                                    "StreetAddressSequence": "Even",
-                                    "StreetName": "VALE",
-                                    "StreetNumberMaximum": "38",
-                                    "StreetNumberMinimum": "6",
-                                    "StreetType": "DR"
-                                }
-                            },
-                            {
-                                "AddressMatch": {
-                                    "AddressType": "RuralLockBox",
-                                    "City": "POUCH COVE",
-                                    "DeliveryInstallationAreaName": "POUCH COVE",
-                                    "DeliveryInstallationDescription": "PO",
-                                    "DirectoryAreaName": "POUCH COVE",
-                                    "LockBoxNumberMaximum": "774",
-                                    "LockBoxNumberMinimum": "1",
-                                    "PostalCode": "A0A3L0",
-                                    "Province": "NL"
-                                }
-                            },
-                            {
-                                "AddressMatch": {
-                                    "AddressType": "RuralRoute",
-                                    "City": "POUCH COVE",
-                                    "DeliveryInstallationAreaName": "POUCH COVE",
-                                    "DeliveryInstallationDescription": "PO",
-                                    "DirectoryAreaName": "POUCH COVE",
-                                    "PostalCode": "A0A3L0",
-                                    "Province": "NL",
-                                    "RuralRouteServiceNumber": "1",
-                                    "RuralRouteServiceType": "RuralRoute"
-                                }
-                            }
-                        ]
-                    }
+  "posts":{
+    "data":{
+      "Output":{
+        "AllResults":{
+          "Results":{
+            "Result":{
+              "AddressMatches":[
+                {
+                  "AddressMatch":{
+                    "AddressType":"UrbanRoute",
+                    "City":"POUCH COVE",
+                    "DirectoryAreaName":"POUCH COVE",
+                    "PostalCode":"A0A3L0",
+                    "Province":"NL",
+                    "RouteServiceNumber":"1",
+                    "RouteServiceType":"RuralRoute",
+                    "StreetAddressSequence":"Odd",
+                    "StreetName":"MOUNTAIN",
+                    "StreetNumberMaximum":"11",
+                    "StreetNumberMinimum":"1",
+                    "StreetType":"CRES"
+                  }
+                },
+                {
+                  "AddressMatch":{
+                    "AddressType":"UrbanRoute",
+                    "City":"POUCH COVE",
+                    "DirectoryAreaName":"POUCH COVE",
+                    "PostalCode":"A0A3L0",
+                    "Province":"NL",
+                    "RouteServiceNumber":"1",
+                    "RouteServiceType":"RuralRoute",
+                    "StreetAddressSequence":"Even",
+                    "StreetName":"MOUNTAIN",
+                    "StreetNumberMaximum":"18",
+                    "StreetNumberMinimum":"2",
+                    "StreetType":"CRES"
+                  }
+                },
+                {
+                  "AddressMatch":{
+                    "AddressType":"UrbanRoute",
+                    "City":"POUCH COVE",
+                    "DirectoryAreaName":"POUCH COVE",
+                    "PostalCode":"A0A3L0",
+                    "Province":"NL",
+                    "RouteServiceNumber":"1",
+                    "RouteServiceType":"RuralRoute",
+                    "StreetAddressSequence":"Odd",
+                    "StreetName":"VALE",
+                    "StreetNumberMaximum":"39",
+                    "StreetNumberMinimum":"1",
+                    "StreetType":"DR"
+                  }
+                },
+                {
+                  "AddressMatch":{
+                    "AddressType":"UrbanRoute",
+                    "City":"POUCH COVE",
+                    "DirectoryAreaName":"POUCH COVE",
+                    "PostalCode":"A0A3L0",
+                    "Province":"NL",
+                    "RouteServiceNumber":"1",
+                    "RouteServiceType":"RuralRoute",
+                    "StreetAddressSequence":"Even",
+                    "StreetName":"VALE",
+                    "StreetNumberMaximum":"38",
+                    "StreetNumberMinimum":"6",
+                    "StreetType":"DR"
+                  }
+                },
+                {
+                  "AddressMatch":{
+                    "AddressType":"RuralLockBox",
+                    "City":"POUCH COVE",
+                    "DeliveryInstallationAreaName":"POUCH COVE",
+                    "DeliveryInstallationDescription":"PO",
+                    "DirectoryAreaName":"POUCH COVE",
+                    "LockBoxNumberMaximum":"774",
+                    "LockBoxNumberMinimum":"1",
+                    "PostalCode":"A0A3L0",
+                    "Province":"NL"
+                  }
+                },
+                {
+                  "AddressMatch":{
+                    "AddressType":"RuralRoute",
+                    "City":"POUCH COVE",
+                    "DeliveryInstallationAreaName":"POUCH COVE",
+                    "DeliveryInstallationDescription":"PO",
+                    "DirectoryAreaName":"POUCH COVE",
+                    "PostalCode":"A0A3L0",
+                    "Province":"NL",
+                    "RuralRouteServiceNumber":"1",
+                    "RuralRouteServiceType":"RuralRoute"
+                  }
                 }
+              ]
             }
+          }
         }
+      }
     }
+  }
 }
