@@ -1,73 +1,125 @@
 {
-  "data": {
-    "RESULTS": {
-      "CONTEXT_E": "Results",
-      "CONTEXT_F": "Résultats",
-      "RETURNED": "363",
-      "UNIT_GROUP": [
-        {
-          "CONCORDANCE_NUMBER": [
-            {
-              "ENGLISH": {
-                "CONCORDANCE_TITLE": "helper, teacher's",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201143084"
-              },
-              "FRENCH": {
-                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201187424"
-              },
-              "NUMBER": "1"
+    "contenttype": "application/json; charset=UTF-8",
+    "data": {
+        "Output": {
+            "AllResults": {
+                "Results": {
+                    "Result": {
+                        "AddressMatches": [
+                            {
+                                "AddressMatch": {
+                                    "AddressType": "UrbanRoute",
+                                    "City": "POUCH COVE",
+                                    "DirectoryAreaName": "POUCH COVE",
+                                    "PostalCode": "A0A3L0",
+                                    "Province": "NL",
+                                    "RouteServiceNumber": "1",
+                                    "RouteServiceType": "RuralRoute",
+                                    "StreetAddressSequence": "Odd",
+                                    "StreetName": "MOUNTAIN",
+                                    "StreetNumberMaximum": "11",
+                                    "StreetNumberMinimum": "1",
+                                    "StreetType": "CRES"
+                                }
+                            },
+                            {
+                                "AddressMatch": {
+                                    "AddressType": "UrbanRoute",
+                                    "City": "POUCH COVE",
+                                    "DirectoryAreaName": "POUCH COVE",
+                                    "PostalCode": "A0A3L0",
+                                    "Province": "NL",
+                                    "RouteServiceNumber": "1",
+                                    "RouteServiceType": "RuralRoute",
+                                    "StreetAddressSequence": "Even",
+                                    "StreetName": "MOUNTAIN",
+                                    "StreetNumberMaximum": "18",
+                                    "StreetNumberMinimum": "2",
+                                    "StreetType": "CRES"
+                                }
+                            },
+                            {
+                                "AddressMatch": {
+                                    "AddressType": "UrbanRoute",
+                                    "City": "POUCH COVE",
+                                    "DirectoryAreaName": "POUCH COVE",
+                                    "PostalCode": "A0A3L0",
+                                    "Province": "NL",
+                                    "RouteServiceNumber": "1",
+                                    "RouteServiceType": "RuralRoute",
+                                    "StreetAddressSequence": "Odd",
+                                    "StreetName": "VALE",
+                                    "StreetNumberMaximum": "39",
+                                    "StreetNumberMinimum": "1",
+                                    "StreetType": "DR"
+                                }
+                            },
+                            {
+                                "AddressMatch": {
+                                    "AddressType": "UrbanRoute",
+                                    "City": "POUCH COVE",
+                                    "DirectoryAreaName": "POUCH COVE",
+                                    "PostalCode": "A0A3L0",
+                                    "Province": "NL",
+                                    "RouteServiceNumber": "1",
+                                    "RouteServiceType": "RuralRoute",
+                                    "StreetAddressSequence": "Even",
+                                    "StreetName": "VALE",
+                                    "StreetNumberMaximum": "38",
+                                    "StreetNumberMinimum": "6",
+                                    "StreetType": "DR"
+                                }
+                            },
+                            {
+                                "AddressMatch": {
+                                    "AddressType": "RuralLockBox",
+                                    "City": "POUCH COVE",
+                                    "DeliveryInstallationAreaName": "POUCH COVE",
+                                    "DeliveryInstallationDescription": "PO",
+                                    "DirectoryAreaName": "POUCH COVE",
+                                    "LockBoxNumberMaximum": "774",
+                                    "LockBoxNumberMinimum": "1",
+                                    "PostalCode": "A0A3L0",
+                                    "Province": "NL"
+                                }
+                            },
+                            {
+                                "AddressMatch": {
+                                    "AddressType": "RuralRoute",
+                                    "City": "POUCH COVE",
+                                    "DeliveryInstallationAreaName": "POUCH COVE",
+                                    "DeliveryInstallationDescription": "PO",
+                                    "DirectoryAreaName": "POUCH COVE",
+                                    "PostalCode": "A0A3L0",
+                                    "Province": "NL",
+                                    "RuralRouteServiceNumber": "1",
+                                    "RuralRouteServiceType": "RuralRoute"
+                                }
+                            }
+                        ],
+                        "OutputParameters": {
+                            "Message": "6",
+                            "StatusCode": "RecordsFound"
+                        },
+                        "Statistics": {
+                            "ProcessDuration": "31.2583",
+                            "ProcessFinishedAt": "2020-08-15 16:59:07",
+                            "ProcessStartedAt": "2020-08-15 16:59:07"
+                        }
+                    }
+                }
             },
-            {
-              "ENGLISH": {
-                "CONCORDANCE_TITLE": "aide, teacher's",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201117181"
-              },
-              "FRENCH": {
-                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201187424"
-              },
-              "NUMBER": "1"
-            }
-          ],
-          "UNIT_CODE": "4413"
-        },
-        {
-          "CONCORDANCE_NUMBER": [
-            {
-              "ENGLISH": {
-                "CONCORDANCE_TITLE": "helper, teacher's",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201143084"
-              },
-              "FRENCH": {
-                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201187424"
-              },
-              "NUMBER": "1"
-            },
-            {
-              "ENGLISH": {
-                "CONCORDANCE_TITLE": "aide, teacher's",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201117181"
-              },
-              "FRENCH": {
-                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
-                "EXAMPLE_IND": "0",
-                "RECORD_ID": "201187424"
-              },
-              "NUMBER": "1"
-            }
-          ],
-          "UNIT_CODE": "4414"
+            "WebServiceName": "WSAddress",
+            "WebServiceVersion": "2.9.7450.17012"
         }
-      ]
-    }
-  }
+    },
+    "id": "94b93db93f799653:8cccbb03eea67acb:94b93db93f799653:1",
+    "rig": {
+        "correlation": "eRyq_OYU_JeY7saNPQdCBEC7RTYB8QRRufg6q1oRLJpZCXRgPyUusCIo3BUx9F3ZWYj3eVoOIHyDNvdM1Q=="
+    },
+    "schemaurl": "esdcapp-response-stream-value",
+    "source": "wsaddress-proxy-producer",
+    "specversion": "0.2",
+    "time": "2020-08-15T16:59:07.176Z",
+    "type": "esdcapp-response-stream"
 }
