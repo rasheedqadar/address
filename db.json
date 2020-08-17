@@ -1,5 +1,4 @@
 {
-    "contenttype": "application/json; charset=UTF-8",
     "data": {
         "Output": {
             "AllResults": {
@@ -96,30 +95,10 @@
                                     "RuralRouteServiceType": "RuralRoute"
                                 }
                             }
-                        ],
-                        "OutputParameters": {
-                            "Message": "6",
-                            "StatusCode": "RecordsFound"
-                        },
-                        "Statistics": {
-                            "ProcessDuration": "31.2583",
-                            "ProcessFinishedAt": "2020-08-15 16:59:07",
-                            "ProcessStartedAt": "2020-08-15 16:59:07"
-                        }
+                        ]
                     }
                 }
-            },
-            "WebServiceName": "WSAddress",
-            "WebServiceVersion": "2.9.7450.17012"
+            }
         }
-    },
-    "id": "94b93db93f799653:8cccbb03eea67acb:94b93db93f799653:1",
-    "rig": {
-        "correlation": "eRyq_OYU_JeY7saNPQdCBEC7RTYB8QRRufg6q1oRLJpZCXRgPyUusCIo3BUx9F3ZWYj3eVoOIHyDNvdM1Q=="
-    },
-    "schemaurl": "esdcapp-response-stream-value",
-    "source": "wsaddress-proxy-producer",
-    "specversion": "0.2",
-    "time": "2020-08-15T16:59:07.176Z",
-    "type": "esdcapp-response-stream"
+    }
 }
